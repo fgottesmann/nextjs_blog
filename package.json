@@ -13,11 +13,14 @@
     "gray-matter": "^4.0.2",
     "next": "^10.0.0",
     "postcss": "^8.2.7",
+    "postcss-flexbugs-fixes": "^5.0.2",
+    "postcss-preset-env": "^6.7.0",
     "react": "17.0.1",
     "react-dom": "17.0.1",
     "remark": "^13.0.0",
     "remark-html": "^13.0.1",
-    "sass": "^1.32.8"
+    "sass": "^1.32.8",
+    "tailwindcss": "^2.0.3"
   },
   "devDependencies": {
     "autoprefixer": "^10.2.5"
